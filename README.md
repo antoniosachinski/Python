@@ -12,6 +12,8 @@ Os projetos estão organizados de forma a abranger diferentes aspectos do desenv
 
 ## Contribuindo  
 
-Caso queira colaborar, fique à vontade para abrir uma pull request! Seja sugerindo novas funcionalidades, corrigindo erros ou compartilhando melhorias, toda contribuição é bem-vinda.  
+Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros, adicionar melhorias, ou resolver mais exercícios, todas as contribuições são bem-vindas.
+
+
 
  
